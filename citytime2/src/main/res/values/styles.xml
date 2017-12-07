@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="BaseDialog" parent="AppTheme">
+        <item name="android:windowBackground">@color/translucent</item>
+    </style>
+
+    <style name="DatePickerDlg" parent="android:Theme.Holo.NoActionBar">
+        <item name="android:windowBackground">@color/translucent</item>
+        <item name="android:editTextColor">@color/txt_lvl_2</item>
+        <item name="android:textColorPrimary">@color/main_blue</item>
+        <item name="android:textColorSecondary">@color/txt_lvl_2</item>
+    </style>
+</resources>

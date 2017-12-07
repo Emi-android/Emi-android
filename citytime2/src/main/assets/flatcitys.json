@@ -1,0 +1,3774 @@
+{
+  "cities": [
+    //    {
+    //      "title": "A",
+    //      "cities": [
+    {
+      "name": "鞍山",
+      "pinyin": "anshan"
+    },
+    {
+      "name": "安庆",
+      "pinyin": "anqing"
+    },
+    {
+      "name": "安阳",
+      "pinyin": "anyang"
+    },
+    {
+      "name": "安康",
+      "pinyin": "ankang"
+    },
+    {
+      "name": "安丘",
+      "pinyin": "anqiu"
+    },
+    {
+      "name": "安顺",
+      "pinyin": "anshun"
+    },
+    {
+      "name": "阿克苏",
+      "pinyin": "asuke"
+    },
+    {
+      "name": "阿拉善盟",
+      "pinyin": "alashanmeng"
+    },
+    {
+      "name": "安吉",
+      "pinyin": "anji"
+    },
+    {
+      "name": "安宁",
+      "pinyin": "anning"
+    },
+    {
+      "name": "安平",
+      "pinyin": "anping"
+    },
+    {
+      "name": "安溪",
+      "pinyin": "anxi"
+    },
+    {
+      "name": "安岳",
+      "pinyin": "anque"
+    },
+    {
+      "name": "阿坝",
+      "pinyin": "abei"
+    },
+    {
+      "name": "阿勒泰",
+      "pinyin": "aletai"
+    },
+    {
+      "name": "阿里",
+      "pinyin": "ali"
+    },
+    {
+      "name": "澳门",
+      "pinyin": "aomen"
+    },
+    //      ]
+    //    },
+    //    {
+    //      "title": "B",
+    //      "cities": [
+    {
+      "name": "北京",
+      "pinyin": "beijing"
+    },
+    {
+      "name": "保定",
+      "pinyin": "baoding"
+    },
+    {
+      "name": "包头",
+      "pinyin": "baotou"
+    },
+    {
+      "name": "宝鸡",
+      "pinyin": "baoji"
+    },
+    {
+      "name": "蚌埠",
+      "pinyin": "bengbu"
+    },
+    {
+      "name": "滨州",
+      "pinyin": "binzhou"
+    },
+    {
+      "name": "亳州",
+      "pinyin": "bozhou"
+    },
+    {
+      "name": "霸州",
+      "pinyin": "bazhou"
+    },
+    {
+      "name": "白城",
+      "pinyin": "baicheng"
+    },
+    {
+      "name": "百色",
+      "pinyin": "baise"
+    },
+    {
+      "name": "白山",
+      "pinyin": "baishan"
+    },
+    {
+      "name": "白银",
+      "pinyin": "baiyin"
+    },
+    {
+      "name": "保山",
+      "pinyin": "baoshan"
+    },
+    {
+      "name": "巴彦淖尔",
+      "pinyin": "bayannaoer"
+    },
+    {
+      "name": "巴中",
+      "pinyin": "bazhong"
+    },
+    {
+      "name": "北海",
+      "pinyin": "beihai"
+    },
+    {
+      "name": "本溪",
+      "pinyin": "benxi"
+    },
+    {
+      "name": "毕节",
+      "pinyin": "bijie"
+    },
+    {
+      "name": "宝丰",
+      "pinyin": "baofeng"
+    },
+    {
+      "name": "宝应",
+      "pinyin": "baoying"
+    },
+    {
+      "name": "北流",
+      "pinyin": "beiliu"
+    },
+    {
+      "name": "彬县",
+      "pinyin": "binxian"
+    },
+    {
+      "name": "宾阳",
+      "pinyin": "binyang"
+    },
+    {
+      "name": "璧山",
+      "pinyin": "bishan"
+    },
+    {
+      "name": "泌阳",
+      "pinyin": "biyang"
+    },
+    {
+      "name": "博爱",
+      "pinyin": "boai"
+    },
+    {
+      "name": "博山",
+      "pinyin": "boshan"
+    },
+    {
+      "name": "巴州",
+      "pinyin": "bazhou"
+    },
+    {
+      "name": "北碚",
+      "pinyin": "beibei"
+    },
+    {
+      "name": "滨海",
+      "pinyin": "binhai"
+    },
+    {
+      "name": "巴音郭楞",
+      "pinyin": "bayinguoleng"
+    },
+    {
+      "name": "白沙",
+      "pinyin": "baisha"
+    },
+    {
+      "name": "保亭",
+      "pinyin": "baoting"
+    },
+    {
+      "name": "博尔塔拉",
+      "pinyin": "boertala"
+      //        }
+      //      ]
+    },
+    //    {
+    //      "title": "C",
+    //      "cities": [
+    {
+      "name": "成都",
+      "pinyin": "chengdu"
+    },
+    {
+      "name": "重庆",
+      "pinyin": "chongqing"
+    },
+    {
+      "name": "长春",
+      "pinyin": "changchun"
+    },
+    {
+      "name": "长沙",
+      "pinyin": "changsha"
+    },
+    {
+      "name": "常州",
+      "pinyin": "changzhou"
+    },
+    {
+      "name": "沧州",
+      "pinyin": "cangzhou"
+    },
+    {
+      "name": "常德",
+      "pinyin": "changde"
+    },
+    {
+      "name": "常熟",
+      "pinyin": "changshu"
+    },
+    {
+      "name": "长治",
+      "pinyin": "changzhi"
+    },
+    {
+      "name": "承德",
+      "pinyin": "chengde"
+    },
+    {
+      "name": "郴州",
+      "pinyin": "chenzhou"
+    },
+    {
+      "name": "赤峰",
+      "pinyin": "chifeng"
+    },
+    {
+      "name": "滁州",
+      "pinyin": "chuzhou"
+    },
+    {
+      "name": "慈溪",
+      "pinyin": "cixi"
+    },
+    {
+      "name": "苍南",
+      "pinyin": "cangnan"
+    },
+    {
+      "name": "长葛",
+      "pinyin": "changge"
+    },
+    {
+      "name": "长兴",
+      "pinyin": "changxing"
+    },
+    {
+      "name": "昌邑",
+      "pinyin": "changyi"
+    },
+    {
+      "name": "巢湖",
+      "pinyin": "chaohu"
+    },
+    {
+      "name": "朝阳",
+      "pinyin": "chaoyang"
+    },
+    {
+      "name": "潮阳",
+      "pinyin": "chaoyang"
+    },
+    {
+      "name": "潮州",
+      "pinyin": "chaozhou"
+    },
+    {
+      "name": "池州",
+      "pinyin": "chizhou"
+    },
+    {
+      "name": "从化",
+      "pinyin": "conghua"
+    },
+    {
+      "name": "曹妃甸",
+      "pinyin": "caofeidian"
+    },
+    {
+      "name": "曹县",
+      "pinyin": "caoxian"
+    },
+    {
+      "name": "岑溪",
+      "pinyin": "cenxi"
+    },
+    {
+      "name": "昌吉",
+      "pinyin": "changji"
+    },
+    {
+      "name": "长乐",
+      "pinyin": "changle"
+    },
+    {
+      "name": "昌乐",
+      "pinyin": "changle"
+    },
+    {
+      "name": "昌黎",
+      "pinyin": "changli"
+    },
+    {
+      "name": "常山",
+      "pinyin": "changshan"
+    },
+    {
+      "name": "长寿",
+      "pinyin": "changshou"
+    },
+    {
+      "name": "长汀",
+      "pinyin": "changting"
+    },
+    {
+      "name": "长垣",
+      "pinyin": "changyuan"
+    },
+    {
+      "name": "潮安",
+      "pinyin": "chaoan"
+    },
+    {
+      "name": "成安",
+      "pinyin": "chengan"
+    },
+    {
+      "name": "承德县",
+      "pinyin": "chengdexian"
+    },
+    {
+      "name": "城固",
+      "pinyin": "chenggu"
+    },
+    {
+      "name": "澄海",
+      "pinyin": "chenghai"
+    },
+    {
+      "name": "城阳",
+      "pinyin": "chengyang"
+    },
+    {
+      "name": "赤壁",
+      "pinyin": "chibi"
+    },
+    {
+      "name": "茌平",
+      "pinyin": "chiping"
+    },
+    {
+      "name": "崇州",
+      "pinyin": "chongzhou"
+    },
+    {
+      "name": "崇左",
+      "pinyin": "chongzuo"
+    },
+    {
+      "name": "淳安",
+      "pinyin": "chunan"
+    },
+    {
+      "name": "楚雄",
+      "pinyin": "chuxiong"
+    },
+    {
+      "name": "磁县",
+      "pinyin": "cixian"
+    },
+    {
+      "name": "昌都",
+      "pinyin": "changdu"
+    },
+    {
+      "name": "昌江",
+      "pinyin": "changjiang"
+    },
+    {
+      "name": "澄迈县",
+      "pinyin": "chengmaixian"
+      //    }
+      //  ]
+    },
+    //    {
+    //      "title": "D",
+    //      "cities": [
+    {
+      "name": "大连",
+      "pinyin": "dalian"
+    },
+    {
+      "name": "东莞",
+      "pinyin": "dongguan"
+    },
+    {
+      "name": "大庆",
+      "pinyin": "daqing"
+    },
+    {
+      "name": "大同",
+      "pinyin": "datong"
+    },
+    {
+      "name": "丹东",
+      "pinyin": "dandong"
+    },
+    {
+      "name": "达州",
+      "pinyin": "dazhou"
+    },
+    {
+      "name": "德阳",
+      "pinyin": "deyang"
+    },
+    {
+      "name": "德州",
+      "pinyin": "dezhou"
+    },
+    {
+      "name": "东营",
+      "pinyin": "dongying"
+    },
+    {
+      "name": "大丰",
+      "pinyin": "dafeng"
+    },
+    {
+      "name": "大理",
+      "pinyin": "dali"
+    },
+    {
+      "name": "丹阳",
+      "pinyin": "danyang"
+    },
+    {
+      "name": "儋州",
+      "pinyin": "danzhou"
+    },
+    {
+      "name": "大石桥",
+      "pinyin": "dashiqiao"
+    },
+    {
+      "name": "登封",
+      "pinyin": "dengfeng"
+    },
+    {
+      "name": "邓州",
+      "pinyin": "dengzhou"
+    },
+    {
+      "name": "定西",
+      "pinyin": "dingxi"
+    },
+    {
+      "name": "东台",
+      "pinyin": "dongtai"
+    },
+    {
+      "name": "东阳",
+      "pinyin": "dongyang"
+    },
+    {
+      "name": "都江堰",
+      "pinyin": "dujiangyan"
+    },
+    {
+      "name": "达拉特旗",
+      "pinyin": "dalateqi"
+    },
+    {
+      "name": "大荔",
+      "pinyin": "dali"
+    },
+    {
+      "name": "郸城",
+      "pinyin": "dancheng"
+    },
+    {
+      "name": "砀山",
+      "pinyin": "danshan"
+    },
+    {
+      "name": "当阳",
+      "pinyin": "dangyang"
+    },
+    {
+      "name": "大通",
+      "pinyin": "datong"
+    },
+    {
+      "name": "大洼",
+      "pinyin": "dawa"
+    },
+    {
+      "name": "大冶",
+      "pinyin": "daye"
+    },
+    {
+      "name": "大邑",
+      "pinyin": "dayi"
+    },
+    {
+      "name": "大竹",
+      "pinyin": "dazhu"
+    },
+    {
+      "name": "灯塔",
+      "pinyin": "dengta"
+    },
+    {
+      "name": "德清",
+      "pinyin": "deqing"
+    },
+    {
+      "name": "电白",
+      "pinyin": "dianbai"
+    },
+    {
+      "name": "调兵山",
+      "pinyin": "diaobingshan"
+    },
+    {
+      "name": "定州",
+      "pinyin": "dingzhou"
+    },
+    {
+      "name": "东方",
+      "pinyin": "dongfang"
+    },
+    {
+      "name": "东港",
+      "pinyin": "donggang"
+    },
+    {
+      "name": "东海",
+      "pinyin": "donghai"
+    },
+    {
+      "name": "东平",
+      "pinyin": "dongping"
+    },
+    {
+      "name": "东兴",
+      "pinyin": "dongxing"
+    },
+    {
+      "name": "敦化",
+      "pinyin": "dunhua"
+    },
+    {
+      "name": "大兴安岭",
+      "pinyin": "daxinganling"
+    },
+    {
+      "name": "德宏",
+      "pinyin": "dehong"
+    },
+    {
+      "name": "迪庆",
+      "pinyin": "diqing"
+    },
+    {
+      "name": "定安县",
+      "pinyin": "dinganxian"
+    },
+    {
+      "name": "敦煌",
+      "pinyin": "dunhuang"
+      //        }
+      //      ]
+    },
+    //    {
+    //      "title": "E",
+    //      "cities": [
+    {
+      "name": "鄂尔多斯",
+      "pinyin": "eerduosi"
+    },
+    {
+      "name": "恩平",
+      "pinyin": "enping"
+    },
+    {
+      "name": "恩施",
+      "pinyin": "enshi"
+    },
+    {
+      "name": "鄂州",
+      "pinyin": "ezhou"
+    },
+    {
+      "name": "峨眉山",
+      "pinyin": "emeishan"
+    },
+    {
+      "name": "额尔古纳",
+      "pinyin": "eerguna"
+      //        }
+      //      ]
+    },
+    //    {
+    //      "title": "F",
+    //      "cities": [
+    {
+      "name": "佛山",
+      "pinyin": "foshan"
+    },
+    {
+      "name": "福州",
+      "pinyin": "fuzhou"
+    },
+    {
+      "name": "抚顺",
+      "pinyin": "fushun"
+    },
+    {
+      "name": "阜阳",
+      "pinyin": "fuyang"
+    },
+    {
+      "name": "抚州",
+      "pinyin": "fuzhou"
+    },
+    {
+      "name": "肥城",
+      "pinyin": "feicheng"
+    },
+    {
+      "name": "奉化",
+      "pinyin": "fenghua"
+    },
+    {
+      "name": "涪陵",
+      "pinyin": "fuling"
+    },
+    {
+      "name": "福清",
+      "pinyin": "fuqing"
+    },
+    {
+      "name": "阜新",
+      "pinyin": "fuxin"
+    },
+    {
+      "name": "富阳",
+      "pinyin": "fuyang"
+    },
+    {
+      "name": "繁昌",
+      "pinyin": "fanchang"
+    },
+    {
+      "name": "防城港",
+      "pinyin": "fangchenggang"
+    },
+    {
+      "name": "范县",
+      "pinyin": "fanxian"
+    },
+    {
+      "name": "丰城",
+      "pinyin": "fengcheng"
+    },
+    {
+      "name": "费县",
+      "pinyin": "feixian"
+    },
+    {
+      "name": "肥乡",
+      "pinyin": "feixiang"
+    },
+    {
+      "name": "凤城",
+      "pinyin": "fengcheng"
+    },
+    {
+      "name": "凤凰",
+      "pinyin": "fenghuang"
+    },
+    {
+      "name": "丰宁",
+      "pinyin": "fengyu"
+    },
+    {
+      "name": "封丘",
+      "pinyin": "fengqiu"
+    },
+    {
+      "name": "凤台",
+      "pinyin": "fengtai"
+    },
+    {
+      "name": "丰县",
+      "pinyin": "fengxian"
+    },
+    {
+      "name": "汾阳",
+      "pinyin": "fenyang"
+    },
+    {
+      "name": "佛冈",
+      "pinyin": "fogang"
+    },
+    {
+      "name": "扶风",
+      "pinyin": "fufeng"
+    },
+    {
+      "name": "扶沟",
+      "pinyin": "fugou"
+    },
+    {
+      "name": "阜康",
+      "pinyin": "fukang"
+    },
+    {
+      "name": "阜宁",
+      "pinyin": "funing"
+    },
+    {
+      "name": "富顺",
+      "pinyin": "fushun"
+    },
+    {
+      "name": "抚松",
+      "pinyin": "fusong"
+      //        }
+      //      ]
+    },
+    //    {
+    //      "title": "G",
+    //      "cities": [
+    {
+      "name": "广州",
+      "pinyin": "guangzhou"
+    },
+    {
+      "name": "贵阳",
+      "pinyin": "guiyang"
+    },
+    {
+      "name": "赣州",
+      "pinyin": "ganzhou"
+    },
+    {
+      "name": "贵港",
+      "pinyin": "guigang"
+    },
+    {
+      "name": "桂林",
+      "pinyin": "guilin"
+    },
+    {
+      "name": "高碑店",
+      "pinyin": "gaobeidian"
+    },
+    {
+      "name": "高密",
+      "pinyin": "gaomi"
+    },
+    {
+      "name": "高邮",
+      "pinyin": "gaoyou"
+    },
+    {
+      "name": "高州",
+      "pinyin": "gaozhou"
+    },
+    {
+      "name": "巩义",
+      "pinyin": "gongyi"
+    },
+    {
+      "name": "广安",
+      "pinyin": "guangan"
+    },
+    {
+      "name": "广元",
+      "pinyin": "guangyuan"
+    },
+    {
+      "name": "盖州",
+      "pinyin": "guizhou"
+    },
+    {
+      "name": "赣榆",
+      "pinyin": "ganyu"
+    },
+    {
+      "name": "高安",
+      "pinyin": "gaoan"
+    },
+    {
+      "name": "藁城",
+      "pinyin": "gaocheng"
+    },
+    {
+      "name": "高陵",
+      "pinyin": "gaoling"
+    },
+    {
+      "name": "高平",
+      "pinyin": "gaoping"
+    },
+    {
+      "name": "高阳",
+      "pinyin": "gaoyang"
+    },
+    {
+      "name": "格尔木",
+      "pinyin": "geermu"
+    },
+    {
+      "name": "个旧",
+      "pinyin": "gejiu"
+    },
+    {
+      "name": "公安",
+      "pinyin": "gongan"
+    },
+    {
+      "name": "共青城",
+      "pinyin": "gongqingcheng"
+    },
+    {
+      "name": "公主岭",
+      "pinyin": "gongzhuling"
+    },
+    {
+      "name": "广德",
+      "pinyin": "guangde"
+    },
+    {
+      "name": "广汉",
+      "pinyin": "guanghan"
+    },
+    {
+      "name": "广饶",
+      "pinyin": "guangrao"
+    },
+    {
+      "name": "灌南",
+      "pinyin": "guannan"
+    },
+    {
+      "name": "灌云",
+      "pinyin": "guanyun"
+    },
+    {
+      "name": "桂平",
+      "pinyin": "guiping"
+    },
+    {
+      "name": "古交",
+      "pinyin": "gujiao"
+    },
+    {
+      "name": "固原",
+      "pinyin": "guyuan"
+    },
+    {
+      "name": "甘南",
+      "pinyin": "gannan"
+    },
+    {
+      "name": "甘孜",
+      "pinyin": "ganzi"
+    },
+    {
+      "name": "高雄",
+      "pinyin": "gaoxiong"
+    },
+    {
+      "name": "鼓浪屿",
+      "pinyin": "gulangyu"
+    },
+    {
+      "name": "果洛",
+      "pinyin": "guoluo"
+      //        }
+      //      ]
+    },
+    //    {
+    //      "title": "H",
+    //      "cities": [
+    {
+      "name": "杭州",
+      "pinyin": "hangzhou"
+    },
+    {
+      "name": "哈尔滨",
+      "pinyin": "haerbin"
+    },
+    {
+      "name": "合肥",
+      "pinyin": "hefei"
+    },
+    {
+      "name": "海口",
+      "pinyin": "haikou"
+    },
+    {
+      "name": "邯郸",
+      "pinyin": "handan"
+    },
+    {
+      "name": "衡阳",
+      "pinyin": "hengyang"
+    },
+    {
+      "name": "淮安",
+      "pinyin": "huaian"
+    },
+    {
+      "name": "呼和浩特",
+      "pinyin": "huhehaote"
+    },
+    {
+      "name": "惠州",
+      "pinyin": "huizhou"
+    },
+    {
+      "name": "湖州",
+      "pinyin": "huzhou"
+    },
+    {
+      "name": "衡水",
+      "pinyin": "hengshui"
+    },
+    {
+      "name": "菏泽",
+      "pinyin": "heze"
+    },
+    {
+      "name": "怀化",
+      "pinyin": "huaihua"
+    },
+    {
+      "name": "淮南",
+      "pinyin": "huainan"
+    },
+    {
+      "name": "黄岛",
+      "pinyin": "huangdao"
+    },
+    {
+      "name": "黄冈",
+      "pinyin": "huanggang"
+    },
+    {
+      "name": "葫芦岛",
+      "pinyin": "huludao"
+    },
+    {
+      "name": "海安",
+      "pinyin": "haian"
+    },
+    {
+      "name": "海城",
+      "pinyin": "haicheng"
+    },
+    {
+      "name": "海门",
+      "pinyin": "haimen"
+    },
+    {
+      "name": "海宁",
+      "pinyin": "haining"
+    },
+    {
+      "name": "海阳",
+      "pinyin": "haiyang"
+    },
+    {
+      "name": "汉中",
+      "pinyin": "hanzhong"
+    },
+    {
+      "name": "鹤壁",
+      "pinyin": "hebi"
+    },
+    {
+      "name": "河池",
+      "pinyin": "hechi"
+    },
+    {
+      "name": "合川",
+      "pinyin": "hechuan"
+    },
+    {
+      "name": "鹤岗",
+      "pinyin": "hegang"
+    },
+    {
+      "name": "黑河",
+      "pinyin": "heihe"
+    },
+    {
+      "name": "横店",
+      "pinyin": "hengdian"
+    },
+    {
+      "name": "河源",
+      "pinyin": "hehuan"
+    },
+    {
+      "name": "贺州",
+      "pinyin": "hezhou"
+    },
+    {
+      "name": "红河",
+      "pinyin": "honghe"
+    },
+    {
+      "name": "淮北",
+      "pinyin": "huaibei"
+    },
+    {
+      "name": "黄山",
+      "pinyin": "huangshan"
+    },
+    {
+      "name": "化州",
+      "pinyin": "huazhou"
+    },
+    {
+      "name": "惠东",
+      "pinyin": "huidong"
+    },
+    {
+      "name": "惠阳",
+      "pinyin": "huiyang"
+    },
+    {
+      "name": "呼伦贝尔",
+      "pinyin": "hulunbeier"
+    },
+    {
+      "name": "海沧",
+      "pinyin": "haicang"
+    },
+    {
+      "name": "海东",
+      "pinyin": "haidong"
+    },
+    {
+      "name": "海林",
+      "pinyin": "hailin"
+    },
+    {
+      "name": "海盐",
+      "pinyin": "haiyan"
+    },
+    {
+      "name": "哈密",
+      "pinyin": "hami"
+    },
+    {
+      "name": "韩城",
+      "pinyin": "hancheng"
+    },
+    {
+      "name": "含山",
+      "pinyin": "hanshan"
+    },
+    {
+      "name": "汉阴",
+      "pinyin": "hanyin"
+    },
+    {
+      "name": "河津",
+      "pinyin": "hejin"
+    },
+    {
+      "name": "河口",
+      "pinyin": "hekou"
+    },
+    {
+      "name": "鹤山",
+      "pinyin": "heshan"
+    },
+    {
+      "name": "和县",
+      "pinyin": "hexian"
+    },
+    {
+      "name": "洪湖",
+      "pinyin": "honghu"
+    },
+    {
+      "name": "洪洞",
+      "pinyin": "hongdong"
+    },
+    {
+      "name": "侯马",
+      "pinyin": "houma"
+    },
+    {
+      "name": "桦甸",
+      "pinyin": "huadian"
+    },
+    {
+      "name": "怀仁",
+      "pinyin": "huairen"
+    },
+    {
+      "name": "淮阳",
+      "pinyin": "huaiyang"
+    },
+    {
+      "name": "黄骅",
+      "pinyin": "huanghua"
+    },
+    {
+      "name": "华容",
+      "pinyin": "huarong"
+    },
+    {
+      "name": "华亭",
+      "pinyin": "huating"
+    },
+    {
+      "name": "滑县",
+      "pinyin": "huaxian"
+    },
+    {
+      "name": "华阴",
+      "pinyin": "huayin"
+    },
+    {
+      "name": "惠安",
+      "pinyin": "huian"
+    },
+    {
+      "name": "辉南",
+      "pinyin": "huinan"
+    },
+    {
+      "name": "辉县",
+      "pinyin": "huixian"
+    },
+    {
+      "name": "珲春",
+      "pinyin": "hunchun"
+    },
+    {
+      "name": "霍邱",
+      "pinyin": "huoqiu"
+    },
+    {
+      "name": "霍州",
+      "pinyin": "huozhou"
+    },
+    {
+      "name": "户县",
+      "pinyin": "huxian"
+    },
+    {
+      "name": "海北",
+      "pinyin": "haibei"
+    },
+    {
+      "name": "海南州",
+      "pinyin": "hainanzhou"
+    },
+    {
+      "name": "海西",
+      "pinyin": "haixi"
+    },
+    {
+      "name": "和田",
+      "pinyin": "hetian"
+    },
+    {
+      "name": "花莲",
+      "pinyin": "hualian"
+    },
+    {
+      "name": "黄南",
+      "pinyin": "huangnan"
+    },
+    {
+      "name": "黄石",
+      "pinyin": "huangshi"
+      //        }
+      //      ]
+    },
+    //    {
+    //      "title": "J",
+    //      "cities": [
+    {
+      "name": "济南",
+      "pinyin": "jinan"
+    },
+    {
+      "name": "江门",
+      "pinyin": "jiangmen"
+    },
+    {
+      "name": "江阴",
+      "pinyin": "jiangyin"
+    },
+    {
+      "name": "嘉兴",
+      "pinyin": "jiaxing"
+    },
+    {
+      "name": "吉林",
+      "pinyin": "jilin"
+    },
+    {
+      "name": "荆州",
+      "pinyin": "jingzhou"
+    },
+    {
+      "name": "金华",
+      "pinyin": "jinhua"
+    },
+    {
+      "name": "济宁",
+      "pinyin": "jining"
+    },
+    {
+      "name": "佳木斯",
+      "pinyin": "jiamusi"
+    },
+    {
+      "name": "焦作",
+      "pinyin": "jiaozuo"
+    },
+    {
+      "name": "揭阳",
+      "pinyin": "jieyang"
+    },
+    {
+      "name": "荆门",
+      "pinyin": "jingmen"
+    },
+    {
+      "name": "晋江",
+      "pinyin": "jinjiang"
+    },
+    {
+      "name": "锦州",
+      "pinyin": "jinzhou"
+    },
+    {
+      "name": "九江",
+      "pinyin": "jiujiang"
+    },
+    {
+      "name": "吉安",
+      "pinyin": "jian"
+    },
+    {
+      "name": "江都",
+      "pinyin": "jiangdu"
+    },
+    {
+      "name": "胶州",
+      "pinyin": "jiaozhou"
+    },
+    {
+      "name": "嘉善",
+      "pinyin": "jiashan"
+    },
+    {
+      "name": "即墨",
+      "pinyin": "jimo"
+    },
+    {
+      "name": "晋城",
+      "pinyin": "jincheng"
+    },
+    {
+      "name": "景德镇",
+      "pinyin": "jingdezhen"
+    },
+    {
+      "name": "靖江",
+      "pinyin": "jingjiang"
+    },
+    {
+      "name": "金坛",
+      "pinyin": "jintan"
+    },
+    {
+      "name": "晋中",
+      "pinyin": "jinzhong"
+    },
+    {
+      "name": "酒泉",
+      "pinyin": "jiuquan"
+    },
+    {
+      "name": "鸡西",
+      "pinyin": "jixi"
+    },
+    {
+      "name": "济源",
+      "pinyin": "jiyuan"
+    },
+    {
+      "name": "句容",
+      "pinyin": "jurong"
+    },
+    {
+      "name": "建德",
+      "pinyin": "jiande"
+    },
+    {
+      "name": "江津",
+      "pinyin": "jiangjin"
+    },
+    {
+      "name": "江山",
+      "pinyin": "jiangshan"
+    },
+    {
+      "name": "江油",
+      "pinyin": "jiangyou"
+    },
+    {
+      "name": "建湖",
+      "pinyin": "jianhu"
+    },
+    {
+      "name": "监利",
+      "pinyin": "jianli"
+    },
+    {
+      "name": "集安",
+      "pinyin": "jian"
+    },
+    {
+      "name": "简阳",
+      "pinyin": "jianyang"
+    },
+    {
+      "name": "建阳",
+      "pinyin": "jiangyang"
+    },
+    {
+      "name": "蛟河",
+      "pinyin": "jiaohe"
+    },
+    {
+      "name": "郏县",
+      "pinyin": "jiaxian"
+    },
+    {
+      "name": "嘉祥",
+      "pinyin": "jiaxiang"
+    },
+    {
+      "name": "嘉峪关",
+      "pinyin": "jiayuguan"
+    },
+    {
+      "name": "介休",
+      "pinyin": "jiexiu"
+    },
+    {
+      "name": "集美",
+      "pinyin": "jimei"
+    },
+    {
+      "name": "金昌",
+      "pinyin": "jinchang"
+    },
+    {
+      "name": "京山",
+      "pinyin": "jingshan"
+    },
+    {
+      "name": "金湖",
+      "pinyin": "jinhu"
+    },
+    {
+      "name": "金乡",
+      "pinyin": "jinxiang"
+    },
+    {
+      "name": "缙云",
+      "pinyin": "jinyun"
+    },
+    {
+      "name": "晋州",
+      "pinyin": "jinzhou"
+    },
+    {
+      "name": "莒南",
+      "pinyin": "junan"
+    },
+    {
+      "name": "巨野",
+      "pinyin": "juye"
+    },
+    {
+      "name": "井冈山",
+      "pinyin": "jinggangshan"
+    },
+    {
+      "name": "九寨沟",
+      "pinyin": "jiuzhaigou"
+    },
+    {
+      "name": "基隆",
+      "pinyin": "jilong"
+    },
+    {
+      "name": "嘉义",
+      "pinyin": "jiayi"
+      //        }
+      //      ]
+    },
+    //    {
+    //      "title": "K",
+    //      "cities": [
+    {
+      "name": "昆明",
+      "pinyin": "kunming"
+    },
+    {
+      "name": "昆山",
+      "pinyin": "kunshan"
+    },
+    {
+      "name": "开封",
+      "pinyin": "kaifeng"
+    },
+    {
+      "name": "开化",
+      "pinyin": "kaihua"
+    },
+    {
+      "name": "开平",
+      "pinyin": "kaiping"
+    },
+    {
+      "name": "克拉玛依",
+      "pinyin": "kelamayi"
+    },
+    {
+      "name": "库尔勒",
+      "pinyin": "keerle"
+    },
+    {
+      "name": "开县",
+      "pinyin": "kaixian"
+    },
+    {
+      "name": "垦利",
+      "pinyin": "kenli"
+    },
+    {
+      "name": "宽城",
+      "pinyin": "kuancheng"
+    },
+    {
+      "name": "库车",
+      "pinyin": "kuche"
+    },
+    {
+      "name": "奎屯",
+      "pinyin": "kuitun"
+    },
+    {
+      "name": "喀什地区",
+      "pinyin": "kashidiqu"
+    },
+    {
+      "name": "克州",
+      "pinyin": "kezhou"
+      //        }
+      //      ]
+    },
+    //    {
+    //      "title": "L",
+    //      "cities": [
+    {
+      "name": "兰州",
+      "pinyin": "lanzhou"
+    },
+    {
+      "name": "连云港",
+      "pinyin": "lianyungang"
+    },
+    {
+      "name": "临沂",
+      "pinyin": "linyi"
+    },
+    {
+      "name": "柳州",
+      "pinyin": "liuzhou"
+    },
+    {
+      "name": "洛阳",
+      "pinyin": "luoyang"
+    },
+    {
+      "name": "廊坊",
+      "pinyin": "langfang"
+    },
+    {
+      "name": "拉萨",
+      "pinyin": "lasa"
+    },
+    {
+      "name": "乐山",
+      "pinyin": "leshan"
+    },
+    {
+      "name": "聊城",
+      "pinyin": "liaocheng"
+    },
+    {
+      "name": "辽阳",
+      "pinyin": "liaoyang"
+    },
+    {
+      "name": "临汾",
+      "pinyin": "linfen"
+    },
+    {
+      "name": "丽水",
+      "pinyin": "lishui"
+    },
+    {
+      "name": "六安",
+      "pinyin": "liuan"
+    },
+    {
+      "name": "龙岩",
+      "pinyin": "longyan"
+    },
+    {
+      "name": "来宾",
+      "pinyin": "laibin"
+    },
+    {
+      "name": "莱芜",
+      "pinyin": "laiwu"
+    },
+    {
+      "name": "莱阳",
+      "pinyin": "laiyang"
+    },
+    {
+      "name": "莱州",
+      "pinyin": "laizhou"
+    },
+    {
+      "name": "兰溪",
+      "pinyin": "lanxi"
+    },
+    {
+      "name": "耒阳",
+      "pinyin": "leiyang"
+    },
+    {
+      "name": "凉山",
+      "pinyin": "liangshan"
+    },
+    {
+      "name": "廉江",
+      "pinyin": "lianjiang"
+    },
+    {
+      "name": "辽源",
+      "pinyin": "liaoyuan"
+    },
+    {
+      "name": "丽江",
+      "pinyin": "lijiang"
+    },
+    {
+      "name": "临安",
+      "pinyin": "linan"
+    },
+    {
+      "name": "临海",
+      "pinyin": "linhai"
+    },
+    {
+      "name": "林州",
+      "pinyin": "linzhou"
+    },
+    {
+      "name": "六盘水",
+      "pinyin": "liupanshui"
+    },
+    {
+      "name": "浏阳",
+      "pinyin": "liuyang"
+    },
+    {
+      "name": "溧阳",
+      "pinyin": "liyang"
+    },
+    {
+      "name": "龙口",
+      "pinyin": "longkou"
+    },
+    {
+      "name": "娄底",
+      "pinyin": "loudi"
+    },
+    {
+      "name": "陆丰",
+      "pinyin": "lifeng"
+    },
+    {
+      "name": "漯河",
+      "pinyin": "luohe"
+    },
+    {
+      "name": "泸州",
+      "pinyin": "luzhou"
+    },
+    {
+      "name": "吕梁",
+      "pinyin": "lvliang"
+    },
+    {
+      "name": "莱西",
+      "pinyin": "laixi"
+    },
+    {
+      "name": "阆中",
+      "pinyin": "langzhou"
+    },
+    {
+      "name": "兰陵",
+      "pinyin": "lanling"
+    },
+    {
+      "name": "蓝田",
+      "pinyin": "lantian"
+    },
+    {
+      "name": "老河口",
+      "pinyin": "laohekou"
+    },
+    {
+      "name": "乐陵",
+      "pinyin": "leling"
+    },
+    {
+      "name": "乐亭",
+      "pinyin": "leting"
+    },
+    {
+      "name": "乐昌",
+      "pinyin": "lechang"
+    },
+    {
+      "name": "雷州",
+      "pinyin": "leizhou"
+    },
+    {
+      "name": "冷水江",
+      "pinyin": "lengshuijiang"
+    },
+    {
+      "name": "乐平",
+      "pinyin": "leping"
+    },
+    {
+      "name": "梁山",
+      "pinyin": "liangshan"
+    },
+    {
+      "name": "连江",
+      "pinyin": "lianjiang"
+    },
+    {
+      "name": "涟水",
+      "pinyin": "lianshui"
+    },
+    {
+      "name": "连州",
+      "pinyin": "lianzhou"
+    },
+    {
+      "name": "利川",
+      "pinyin": "lichuan"
+    },
+    {
+      "name": "利津",
+      "pinyin": "lijin"
+    },
+    {
+      "name": "醴陵",
+      "pinyin": "liling"
+    },
+    {
+      "name": "临沧",
+      "pinyin": "lincang"
+    },
+    {
+      "name": "灵宝",
+      "pinyin": "lingbao"
+    },
+    {
+      "name": "陵川",
+      "pinyin": "lingchuan"
+    },
+    {
+      "name": "凌海",
+      "pinyin": "linghai"
+    },
+    {
+      "name": "灵山",
+      "pinyin": "lingshan"
+    },
+    {
+      "name": "灵石",
+      "pinyin": "lingshi"
+    },
+    {
+      "name": "陵水",
+      "pinyin": "lingshui"
+    },
+    {
+      "name": "临江",
+      "pinyin": "linjiang"
+    },
+    {
+      "name": "临清",
+      "pinyin": "linqing"
+    },
+    {
+      "name": "临朐",
+      "pinyin": "linqu"
+    },
+    {
+      "name": "临沭",
+      "pinyin": "linshu"
+    },
+    {
+      "name": "临潼",
+      "pinyin": "lintong"
+    },
+    {
+      "name": "临夏",
+      "pinyin": "linxia"
+    },
+    {
+      "name": "临邑",
+      "pinyin": "linyi"
+    },
+    {
+      "name": "临猗",
+      "pinyin": "linyi"
+    },
+    {
+      "name": "临漳",
+      "pinyin": "linzhang"
+    },
+    {
+      "name": "柳河",
+      "pinyin": "liuhe"
+    },
+    {
+      "name": "隆昌",
+      "pinyin": "longchang"
+    },
+    {
+      "name": "龙海",
+      "pinyin": "longhai"
+    },
+    {
+      "name": "龙泉",
+      "pinyin": "longquan"
+    },
+    {
+      "name": "隆尧",
+      "pinyin": "longyao"
+    },
+    {
+      "name": "龙游",
+      "pinyin": "longyou"
+    },
+    {
+      "name": "栾城",
+      "pinyin": "luancheng"
+    },
+    {
+      "name": "栾川",
+      "pinyin": "luanchuan"
+    },
+    {
+      "name": "滦南",
+      "pinyin": "liuannan"
+    },
+    {
+      "name": "滦县",
+      "pinyin": "luanxian"
+    },
+    {
+      "name": "鹿泉",
+      "pinyin": "luquan"
+    },
+    {
+      "name": "鲁山",
+      "pinyin": "lushan"
+    },
+    {
+      "name": "鹿邑",
+      "pinyin": "luyi"
+    },
+    {
+      "name": "林芝",
+      "pinyin": "linzhi"
+    },
+    {
+      "name": "陇南",
+      "pinyin": "longnan"
+    },
+    {
+      "name": "乐东黎族自治县",
+      "pinyin": "ledonglizuzizhixian"
+    },
+    {
+      "name": "凉山彝族自治州",
+      "pinyin": "liangshanyizhuzizhizhou"
+      //        }
+      //      ]
+    },
+    //    {
+    //      "title": "M",
+    //      "cities": [
+    {
+      "name": "绵阳",
+      "pinyin": "mianyang"
+    },
+    {
+      "name": "马鞍山",
+      "pinyin": "maanshan"
+    },
+    {
+      "name": "茂名",
+      "pinyin": "maoming"
+    },
+    {
+      "name": "牡丹江",
+      "pinyin": "mudanjiang"
+    },
+    {
+      "name": "眉山",
+      "pinyin": "meishan"
+    },
+    {
+      "name": "梅州",
+      "pinyin": "meizhou"
+    },
+    {
+      "name": "麻城",
+      "pinyin": "macheng"
+    },
+    {
+      "name": "满洲里",
+      "pinyin": "manzhouli"
+    },
+    {
+      "name": "梅河口",
+      "pinyin": "meihekou"
+    },
+    {
+      "name": "梅县",
+      "pinyin": "meixian"
+    },
+    {
+      "name": "孟津",
+      "pinyin": "mengjin"
+    },
+    {
+      "name": "蒙阴",
+      "pinyin": "mengyin"
+    },
+    {
+      "name": "孟州",
+      "pinyin": "mengzhou"
+    },
+    {
+      "name": "渑池",
+      "pinyin": "mianchi"
+    },
+    {
+      "name": "绵竹",
+      "pinyin": "mianzhu"
+    },
+    {
+      "name": "汨罗",
+      "pinyin": "miluo"
+    },
+    {
+      "name": "明光",
+      "pinyin": "mingguang"
+    },
+    {
+      "name": "民权",
+      "pinyin": "minquan"
+    },
+    {
+      "name": "密山",
+      "pinyin": "mishan"
+    },
+    {
+      "name": "牟平",
+      "pinyin": "muuping"
+    },
+    {
+      "name": "漠河",
+      "pinyin": "mohe"
+    },
+    {
+      "name": "苗栗县",
+      "pinyin": "miaolixian"
+      //        }
+      //      ]
+    },
+    //    {
+    //      "title": "N",
+    //      "cities": [
+    {
+      "name": "南京",
+      "pinyin": "nanjing"
+    },
+    {
+      "name": "南宁",
+      "pinyin": "nanning"
+    },
+    {
+      "name": "宁波",
+      "pinyin": "ningbo"
+    },
+    {
+      "name": "南昌",
+      "pinyin": "nanchang"
+    },
+    {
+      "name": "南通",
+      "pinyin": "nantong"
+    },
+    {
+      "name": "南阳",
+      "pinyin": "nanyang"
+    },
+    {
+      "name": "南充",
+      "pinyin": "nanchong"
+    },
+    {
+      "name": "宁德",
+      "pinyin": "ningde"
+    },
+    {
+      "name": "南安",
+      "pinyin": "nanan"
+    },
+    {
+      "name": "南平",
+      "pinyin": "nanping"
+    },
+    {
+      "name": "内江",
+      "pinyin": "neijiang"
+    },
+    {
+      "name": "宁海",
+      "pinyin": "ninghai"
+    },
+    {
+      "name": "南宫",
+      "pinyin": "nangong"
+    },
+    {
+      "name": "南乐",
+      "pinyin": "nanle"
+    },
+    {
+      "name": "南陵",
+      "pinyin": "nanling"
+    },
+    {
+      "name": "南沙",
+      "pinyin": "nansha"
+    },
+    {
+      "name": "南雄",
+      "pinyin": "nanxiong"
+    },
+    {
+      "name": "讷河",
+      "pinyin": "nehe"
+    },
+    {
+      "name": "内黄",
+      "pinyin": "neihuang"
+    },
+    {
+      "name": "内丘",
+      "pinyin": "neiqiu"
+    },
+    {
+      "name": "宁国",
+      "pinyin": "ningguo"
+    },
+    {
+      "name": "宁晋",
+      "pinyin": "ningjin"
+    },
+    {
+      "name": "宁津",
+      "pinyin": "ningjin"
+    },
+    {
+      "name": "宁乡",
+      "pinyin": "ningxiang"
+    },
+    {
+      "name": "宁阳",
+      "pinyin": "ningyang"
+    },
+    {
+      "name": "南投",
+      "pinyin": "nantou"
+    },
+    {
+      "name": "那曲",
+      "pinyin": "naqu"
+    },
+    {
+      "name": "怒江",
+      "pinyin": "nujiang"
+      //        }
+      //      ]
+    },
+    //    {
+    //      "title": "P",
+    //      "cities": [
+    {
+      "name": "莆田",
+      "pinyin": "putian"
+    },
+    {
+      "name": "盘锦",
+      "pinyin": "panmian"
+    },
+    {
+      "name": "平顶山",
+      "pinyin": "pingdingshan"
+    },
+    {
+      "name": "濮阳",
+      "pinyin": "puyang"
+    },
+    {
+      "name": "攀枝花",
+      "pinyin": "panzhihua"
+    },
+    {
+      "name": "沛县",
+      "pinyin": "peixian"
+    },
+    {
+      "name": "蓬莱",
+      "pinyin": "penglai"
+    },
+    {
+      "name": "彭州",
+      "pinyin": "pengzhou"
+    },
+    {
+      "name": "平度",
+      "pinyin": "pingdu"
+    },
+    {
+      "name": "平湖",
+      "pinyin": "pinghua"
+    },
+    {
+      "name": "平凉",
+      "pinyin": "pingliang"
+    },
+    {
+      "name": "萍乡",
+      "pinyin": "pingxiang"
+    },
+    {
+      "name": "平阳",
+      "pinyin": "pingyang"
+    },
+    {
+      "name": "邳州",
+      "pinyin": "pizhou"
+    },
+    {
+      "name": "普洱",
+      "pinyin": "puer"
+    },
+    {
+      "name": "普宁",
+      "pinyin": "puning"
+    },
+    {
+      "name": "磐石",
+      "pinyin": "panshi"
+    },
+    {
+      "name": "盘县",
+      "pinyin": "panxian"
+    },
+    {
+      "name": "平果",
+      "pinyin": "pingguo"
+    },
+    {
+      "name": "平江",
+      "pinyin": "pingjiang"
+    },
+    {
+      "name": "平泉",
+      "pinyin": "pingquan"
+    },
+    {
+      "name": "平山",
+      "pinyin": "pingshan"
+    },
+    {
+      "name": "平潭",
+      "pinyin": "pingtan"
+    },
+    {
+      "name": "平遥",
+      "pinyin": "pingyao"
+    },
+    {
+      "name": "平邑",
+      "pinyin": "pingyi"
+    },
+    {
+      "name": "平舆",
+      "pinyin": "pingyu"
+    },
+    {
+      "name": "平原",
+      "pinyin": "pingyuan"
+    },
+    {
+      "name": "鄱阳",
+      "pinyin": "poyang"
+    },
+    {
+      "name": "蒲城",
+      "pinyin": "pucheng"
+    },
+    {
+      "name": "浦江",
+      "pinyin": "pujiang"
+    },
+    {
+      "name": "濮阳县",
+      "pinyin": "puyangxian"
+    },
+    {
+      "name": "屏东",
+      "pinyin": "pingdong"
+      //        }
+      //      ]
+    },
+    //    {
+    //      "title": "Q",
+    //      "cities": [
+    {
+      "name": "青岛",
+      "pinyin": "qingdao"
+    },
+    {
+      "name": "秦皇岛",
+      "pinyin": "qinhuangdao"
+    },
+    {
+      "name": "泉州",
+      "pinyin": "quanzhou"
+    },
+    {
+      "name": "清远",
+      "pinyin": "qingyuan"
+    },
+    {
+      "name": "齐齐哈尔",
+      "pinyin": "qiqihaer"
+    },
+    {
+      "name": "曲靖",
+      "pinyin": "qujing"
+    },
+    {
+      "name": "衢州",
+      "pinyin": "quzhou"
+    },
+    {
+      "name": "迁安",
+      "pinyin": "qianan"
+    },
+    {
+      "name": "黔东南",
+      "pinyin": "qiandongnan"
+    },
+    {
+      "name": "潜江",
+      "pinyin": "qianjiang"
+    },
+    {
+      "name": "启东",
+      "pinyin": "qidong"
+    },
+    {
+      "name": "庆阳",
+      "pinyin": "qingyang"
+    },
+    {
+      "name": "青州",
+      "pinyin": "qingzhou"
+    },
+    {
+      "name": "钦州",
+      "pinyin": "qinzhou"
+    },
+    {
+      "name": "七台河",
+      "pinyin": "qitaihe"
+    },
+    {
+      "name": "黔南",
+      "pinyin": "qiannan"
+    },
+    {
+      "name": "黔西",
+      "pinyin": "qianxi"
+    },
+    {
+      "name": "齐河",
+      "pinyin": "qihe"
+    },
+    {
+      "name": "清丰",
+      "pinyin": "qingfeng"
+    },
+    {
+      "name": "清河",
+      "pinyin": "qinghe"
+    },
+    {
+      "name": "青田",
+      "pinyin": "qingtian"
+    },
+    {
+      "name": "沁阳",
+      "pinyin": "qinyang"
+    },
+    {
+      "name": "琼海",
+      "pinyin": "qionghai"
+    },
+    {
+      "name": "邛崃",
+      "pinyin": "qionglai"
+    },
+    {
+      "name": "栖霞",
+      "pinyin": "qixia"
+    },
+    {
+      "name": "淇县",
+      "pinyin": "qixian"
+    },
+    {
+      "name": "琼中",
+      "pinyin": "qiongzhong"
+    },
+    {
+      "name": "全椒",
+      "pinyin": "quanjiao"
+      //        }
+      //      ]
+    },
+    //    {
+    //      "title": "R",
+    //      "cities": [
+    {
+      "name": "日照",
+      "pinyin": "rizhao"
+    },
+    {
+      "name": "荣成",
+      "pinyin": "rongcheng"
+    },
+    {
+      "name": "如东",
+      "pinyin": "rudong"
+    },
+    {
+      "name": "如皋",
+      "pinyin": "rugao"
+    },
+    {
+      "name": "瑞安",
+      "pinyin": "ruian"
+    },
+    {
+      "name": "乳山",
+      "pinyin": "rushan"
+    },
+    {
+      "name": "汝州",
+      "pinyin": "ruzhou"
+    },
+    {
+      "name": "仁怀",
+      "pinyin": "renhuai"
+    },
+    {
+      "name": "任丘",
+      "pinyin": "renqiu"
+    },
+    {
+      "name": "仁寿",
+      "pinyin": "renshou"
+    },
+    {
+      "name": "瑞昌",
+      "pinyin": "ruichang"
+    },
+    {
+      "name": "瑞金",
+      "pinyin": "ruijin"
+    },
+    {
+      "name": "汝阳",
+      "pinyin": "ruyang"
+    },
+    {
+      "name": "日喀则",
+      "pinyin": "rikaze"
+      //        }
+      //      ]
+    },
+    //    {
+    //      "title": "S",
+    //      "cities": [
+    {
+      "name": "上海",
+      "pinyin": "shanghai"
+    },
+    {
+      "name": "深圳",
+      "pinyin": "shenzhen"
+    },
+    {
+      "name": "沈阳",
+      "pinyin": "shenyang"
+    },
+    {
+      "name": "石家庄",
+      "pinyin": "shijiazhuang"
+    },
+    {
+      "name": "苏州",
+      "pinyin": "suzhou"
+    },
+    {
+      "name": "三亚",
+      "pinyin": "sanya"
+    },
+    {
+      "name": "汕头",
+      "pinyin": "shantou"
+    },
+    {
+      "name": "绍兴",
+      "pinyin": "shaoxing"
+    },
+    {
+      "name": "商丘",
+      "pinyin": "shangqiu"
+    },
+    {
+      "name": "上饶",
+      "pinyin": "shangrao"
+    },
+    {
+      "name": "韶关",
+      "pinyin": "shaoguan"
+    },
+    {
+      "name": "邵阳",
+      "pinyin": "shaoyang"
+    },
+    {
+      "name": "十堰",
+      "pinyin": "shiyan"
+    },
+    {
+      "name": "顺德",
+      "pinyin": "shunde"
+    },
+    {
+      "name": "松原",
+      "pinyin": "songyuan"
+    },
+    {
+      "name": "宿迁",
+      "pinyin": "suqian"
+    },
+    {
+      "name": "宿州",
+      "pinyin": "suzhou"
+    },
+    {
+      "name": "三河",
+      "pinyin": "sanhe"
+    },
+    {
+      "name": "三门峡",
+      "pinyin": "sanmenxia"
+    },
+    {
+      "name": "三明",
+      "pinyin": "sanming"
+    },
+    {
+      "name": "商洛",
+      "pinyin": "shangluo"
+    },
+    {
+      "name": "上虞",
+      "pinyin": "shangyu"
+    },
+    {
+      "name": "汕尾",
+      "pinyin": "shanwei"
+    },
+    {
+      "name": "嵊州",
+      "pinyin": "shengzhou"
+    },
+    {
+      "name": "射阳",
+      "pinyin": "sheyang"
+    },
+    {
+      "name": "石河子",
+      "pinyin": "shihezi"
+    },
+    {
+      "name": "石狮",
+      "pinyin": "shishi"
+    },
+    {
+      "name": "石嘴山",
+      "pinyin": "shizuishan"
+    },
+    {
+      "name": "寿光",
+      "pinyin": "shouguang"
+    },
+    {
+      "name": "双鸭山",
+      "pinyin": "shuangyashan"
+    },
+    {
+      "name": "舒城",
+      "pinyin": "shucheng"
+    },
+    {
+      "name": "朔州",
+      "pinyin": "shuozhou"
+    },
+    {
+      "name": "沭阳",
+      "pinyin": "shuyang"
+    },
+    {
+      "name": "四平",
+      "pinyin": "shuyang"
+    },
+    {
+      "name": "绥化",
+      "pinyin": "suihua"
+    },
+    {
+      "name": "遂宁",
+      "pinyin": "suining"
+    },
+    {
+      "name": "随州",
+      "pinyin": "suizhou"
+    },
+    {
+      "name": "三门",
+      "pinyin": "sanmen"
+    },
+    {
+      "name": "沙河",
+      "pinyin": "shahe"
+    },
+    {
+      "name": "上蔡",
+      "pinyin": "shangcai"
+    },
+    {
+      "name": "上高",
+      "pinyin": "shanggao"
+    },
+    {
+      "name": "上杭",
+      "pinyin": "shanghang"
+    },
+    {
+      "name": "单县",
+      "pinyin": "shanxian"
+    },
+    {
+      "name": "邵东",
+      "pinyin": "shaodong"
+    },
+    {
+      "name": "韶山",
+      "pinyin": "shaoshan"
+    },
+    {
+      "name": "沙湾",
+      "pinyin": "shawan"
+    },
+    {
+      "name": "射洪",
+      "pinyin": "shehong"
+    },
+    {
+      "name": "神木",
+      "pinyin": "shenmu"
+    },
+    {
+      "name": "沈丘",
+      "pinyin": "shenqiu"
+    },
+    {
+      "name": "涉县",
+      "pinyin": "shexian"
+    },
+    {
+      "name": "石岛",
+      "pinyin": "shidao"
+    },
+    {
+      "name": "什邡",
+      "pinyin": "shifang"
+    },
+    {
+      "name": "石泉",
+      "pinyin": "shiquan"
+    },
+    {
+      "name": "舒兰",
+      "pinyin": "shulan"
+    },
+    {
+      "name": "泗洪",
+      "pinyin": "sihong"
+    },
+    {
+      "name": "四会",
+      "pinyin": "sihui"
+    },
+    {
+      "name": "泗阳",
+      "pinyin": "siyang"
+    },
+    {
+      "name": "嵩县",
+      "pinyin": "songxian"
+    },
+    {
+      "name": "松滋",
+      "pinyin": "songzi"
+    },
+    {
+      "name": "遂昌",
+      "pinyin": "suixian"
+    },
+    {
+      "name": "睢宁",
+      "pinyin": "suining"
+    },
+    {
+      "name": "睢县",
+      "pinyin": "suixian"
+    },
+    {
+      "name": "绥中",
+      "pinyin": "suizhong"
+    },
+    {
+      "name": "三清山",
+      "pinyin": "sanqingshan"
+    },
+    {
+      "name": "三峡",
+      "pinyin": "sanxia"
+    },
+    {
+      "name": "山南",
+      "pinyin": "shannan"
+    },
+    {
+      "name": "神农",
+      "pinyin": "shennong"
+    },
+    {
+      "name": "思茅",
+      "pinyin": "simao"
+      //        }
+      //      ]
+    },
+    //    {
+    //      "title": "T",
+    //      "cities": [
+    {
+      "name": "天津",
+      "pinyin": "tianjin"
+    },
+    {
+      "name": "太原",
+      "pinyin": "taiyuan"
+    },
+    {
+      "name": "泰州",
+      "pinyin": "taizhou"
+    },
+    {
+      "name": "台州",
+      "pinyin": "taizhou"
+    },
+    {
+      "name": "唐山",
+      "pinyin": "tangshan"
+    },
+    {
+      "name": "泰安",
+      "pinyin": "taian"
+    },
+    {
+      "name": "太仓",
+      "pinyin": "taicang"
+    },
+    {
+      "name": "桐乡",
+      "pinyin": "tongxiang"
+    },
+    {
+      "name": "台山",
+      "pinyin": "taishan"
+    },
+    {
+      "name": "泰兴",
+      "pinyin": "taixing"
+    },
+    {
+      "name": "滕州",
+      "pinyin": "tengzou"
+    },
+    {
+      "name": "天长",
+      "pinyin": "tianchang"
+    },
+    {
+      "name": "天门",
+      "pinyin": "tianmen"
+    },
+    {
+      "name": "天水",
+      "pinyin": "tianshui"
+    },
+    {
+      "name": "铁岭",
+      "pinyin": "tieling"
+    },
+    {
+      "name": "铜川",
+      "pinyin": "tongchuan"
+    },
+    {
+      "name": "通化",
+      "pinyin": "tonghua"
+    },
+    {
+      "name": "通辽",
+      "pinyin": "tongning"
+    },
+    {
+      "name": "铜陵",
+      "pinyin": "tongling"
+    },
+    {
+      "name": "铜仁",
+      "pinyin": "tongren"
+    },
+    {
+      "name": "太谷",
+      "pinyin": "taigu"
+    },
+    {
+      "name": "太和",
+      "pinyin": "taihe"
+    },
+    {
+      "name": "台前",
+      "pinyin": "taiqian"
+    },
+    {
+      "name": "郯城",
+      "pinyin": "tancheng"
+    },
+    {
+      "name": "汤阴",
+      "pinyin": "tangyin"
+    },
+    {
+      "name": "洮南",
+      "pinyin": "taonan"
+    },
+    {
+      "name": "藤县",
+      "pinyin": "tengxian"
+    },
+    {
+      "name": "天台",
+      "pinyin": "tiantai"
+    },
+    {
+      "name": "同安",
+      "pinyin": "tongan"
+    },
+    {
+      "name": "桐城",
+      "pinyin": "tongcheng"
+    },
+    {
+      "name": "铜梁",
+      "pinyin": "tongliang"
+    },
+    {
+      "name": "桐庐",
+      "pinyin": "tonglu"
+    },
+    {
+      "name": "土默特右旗",
+      "pinyin": "tumoteyouqi"
+    },
+    {
+      "name": "塔城",
+      "pinyin": "tacheng"
+    },
+    {
+      "name": "台北",
+      "pinyin": "taibei"
+    },
+    {
+      "name": "台湾连江",
+      "pinyin": "taiwanlianjiang"
+    },
+    {
+      "name": "台中",
+      "pinyin": "taizhong"
+    },
+    {
+      "name": "腾冲",
+      "pinyin": "tengchong"
+    },
+    {
+      "name": "台南市",
+      "pinyin": "tainanshi"
+    },
+    {
+      "name": "图木舒克市",
+      "pinyin": "tumushukeshi"
+    },
+    {
+      "name": "吐鲁番地区",
+      "pinyin": "tulufandiqu"
+    },
+    {
+      "name": "屯昌县",
+      "pinyin": "tunchangxian"
+    },
+    {
+      "name": "吐鲁番",
+      "pinyin": "tulufan"
+      //        }
+      //      ]
+    },
+    //    {
+    //      "title": "W",
+    //      "cities": [
+    {
+      "name": "武汉",
+      "pinyin": "wuhan"
+    },
+    {
+      "name": "温州",
+      "pinyin": "wenzhou"
+    },
+    {
+      "name": "无锡",
+      "pinyin": "wuxi"
+    },
+    {
+      "name": "潍坊",
+      "pinyin": "weifang"
+    },
+    {
+      "name": "威海",
+      "pinyin": "weihai"
+    },
+    {
+      "name": "芜湖",
+      "pinyin": "wuhu"
+    },
+    {
+      "name": "乌鲁木齐",
+      "pinyin": "wulumuqi"
+    },
+    {
+      "name": "渭南",
+      "pinyin": "weinan"
+    },
+    {
+      "name": "温岭",
+      "pinyin": "wenling"
+    },
+    {
+      "name": "吴江",
+      "pinyin": "wujiang"
+    },
+    {
+      "name": "瓦房店",
+      "pinyin": "wafangdian"
+    },
+    {
+      "name": "万州",
+      "pinyin": "wanzhou"
+    },
+    {
+      "name": "文登",
+      "pinyin": "wendeng"
+    },
+    {
+      "name": "武安",
+      "pinyin": "wuan"
+    },
+    {
+      "name": "吴川",
+      "pinyin": "wuchuan"
+    },
+    {
+      "name": "乌海",
+      "pinyin": "wuhai"
+    },
+    {
+      "name": "乌兰察布",
+      "pinyin": "wulanchabu"
+    },
+    {
+      "name": "武威",
+      "pinyin": "wuwei"
+    },
+    {
+      "name": "梧州",
+      "pinyin": "wuzhou"
+    },
+    {
+      "name": "万宁",
+      "pinyin": "wanning"
+    },
+    {
+      "name": "围场",
+      "pinyin": "weichang"
+    },
+    {
+      "name": "卫辉",
+      "pinyin": "weihui"
+    },
+    {
+      "name": "微山",
+      "pinyin": "weishan"
+    },
+    {
+      "name": "文昌",
+      "pinyin": "wenchang"
+    },
+    {
+      "name": "文山",
+      "pinyin": "wenshan"
+    },
+    {
+      "name": "汶上",
+      "pinyin": "wenshang"
+    },
+    {
+      "name": "温县",
+      "pinyin": "wenxian"
+    },
+    {
+      "name": "乌拉特前旗",
+      "pinyin": "wulateqianqi"
+    },
+    {
+      "name": "武城",
+      "pinyin": "wucheng"
+    },
+    {
+      "name": "舞钢",
+      "pinyin": "wugang"
+    },
+    {
+      "name": "芜湖县",
+      "pinyin": "wuhuxian"
+    },
+    {
+      "name": "武鸣",
+      "pinyin": "wuming"
+    },
+    {
+      "name": "乌苏",
+      "pinyin": "wusu"
+    },
+    {
+      "name": "无为",
+      "pinyin": "wuwei"
+    },
+    {
+      "name": "武穴",
+      "pinyin": "wuxue"
+    },
+    {
+      "name": "武义",
+      "pinyin": "wuyi"
+    },
+    {
+      "name": "武夷山",
+      "pinyin": "wuyishan"
+    },
+    {
+      "name": "婺源",
+      "pinyin": "wuyuan"
+    },
+    {
+      "name": "武陟",
+      "pinyin": "wuzhi"
+    },
+    {
+      "name": "吴忠",
+      "pinyin": "wuzhong"
+    },
+    {
+      "name": "五家渠",
+      "pinyin": "wujiaqu"
+    },
+    {
+      "name": "五指山",
+      "pinyin": "wuzhishan"
+    },
+    {
+      "name": "武当山",
+      "pinyin": "wudangshan"
+    },
+    {
+      "name": "乌镇",
+      "pinyin": "wuzhen"
+      //        }
+      //      ]
+    },
+    //    {
+    //      "title": "X",
+    //      "cities": [
+    {
+      "name": "西安",
+      "pinyin": "xian"
+    },
+    {
+      "name": "厦门",
+      "pinyin": "xiamen"
+    },
+    {
+      "name": "襄阳",
+      "pinyin": "xiangyang"
+    },
+    {
+      "name": "徐州",
+      "pinyin": "xuzhou"
+    },
+    {
+      "name": "湘潭",
+      "pinyin": "xiangtan"
+    },
+    {
+      "name": "咸阳",
+      "pinyin": "xianyang"
+    },
+    {
+      "name": "孝感",
+      "pinyin": "xiaogan"
+    },
+    {
+      "name": "邢台",
+      "pinyin": "xingtai"
+    },
+    {
+      "name": "西宁",
+      "pinyin": "xining"
+    },
+    {
+      "name": "新乡",
+      "pinyin": "xinxiang"
+    },
+    {
+      "name": "信阳",
+      "pinyin": "xinyang"
+    },
+    {
+      "name": "宣城",
+      "pinyin": "xuancheng"
+    },
+    {
+      "name": "许昌",
+      "pinyin": "xuchang"
+    },
+    {
+      "name": "咸宁",
+      "pinyin": "xianning"
+    },
+    {
+      "name": "仙桃",
+      "pinyin": "xiantao"
+    },
+    {
+      "name": "兴安盟",
+      "pinyin": "xinganmeng"
+    },
+    {
+      "name": "兴化",
+      "pinyin": "xinghua"
+    },
+    {
+      "name": "辛集",
+      "pinyin": "xinji"
+    },
+    {
+      "name": "新密",
+      "pinyin": "xinmi"
+    },
+    {
+      "name": "新泰",
+      "pinyin": "xintai"
+    },
+    {
+      "name": "新沂",
+      "pinyin": "xinyi"
+    },
+    {
+      "name": "信宜",
+      "pinyin": "xinyi"
+    },
+    {
+      "name": "新余",
+      "pinyin": "xinyu"
+    },
+    {
+      "name": "新郑",
+      "pinyin": "xinzheng"
+    },
+    {
+      "name": "忻州",
+      "pinyin": "xinzhou"
+    },
+    {
+      "name": "西双版纳",
+      "pinyin": "xishuangbanna"
+    },
+    {
+      "name": "夏津",
+      "pinyin": "xiajin"
+    },
+    {
+      "name": "项城",
+      "pinyin": "xiangcheng"
+    },
+    {
+      "name": "香河",
+      "pinyin": "xianghe"
+    },
+    {
+      "name": "象山",
+      "pinyin": "xiangshan"
+    },
+    {
+      "name": "响水",
+      "pinyin": "xiangshui"
+    },
+    {
+      "name": "湘西",
+      "pinyin": "xiangxi"
+    },
+    {
+      "name": "湘乡",
+      "pinyin": "xiangxiang"
+    },
+    {
+      "name": "湘阴",
+      "pinyin": "xiangyin"
+    },
+    {
+      "name": "襄垣",
+      "pinyin": "xiangyuan"
+    },
+    {
+      "name": "仙居",
+      "pinyin": "xianju"
+    },
+    {
+      "name": "孝义",
+      "pinyin": "xiaoyi"
+    },
+    {
+      "name": "霞浦",
+      "pinyin": "xiapu"
+    },
+    {
+      "name": "夏邑",
+      "pinyin": "xiayi"
+    },
+    {
+      "name": "西华",
+      "pinyin": "xihua"
+    },
+    {
+      "name": "锡林郭勒盟",
+      "pinyin": "xilinguolemeng"
+    },
+    {
+      "name": "新安",
+      "pinyin": "xinan"
+    },
+    {
+      "name": "新蔡",
+      "pinyin": "xincai"
+    },
+    {
+      "name": "新昌",
+      "pinyin": "xinchang"
+    },
+    {
+      "name": "信丰",
+      "pinyin": "xinfeng"
+    },
+    {
+      "name": "兴城",
+      "pinyin": "xincheng"
+    },
+    {
+      "name": "兴宁",
+      "pinyin": "xingning"
+    },
+    {
+      "name": "兴平",
+      "pinyin": "xingping"
+    },
+    {
+      "name": "荥阳",
+      "pinyin": "xingyang"
+    },
+    {
+      "name": "新化",
+      "pinyin": "xinhua"
+    },
+    {
+      "name": "新乐",
+      "pinyin": "xinle"
+    },
+    {
+      "name": "新民",
+      "pinyin": "xinmin"
+    },
+    {
+      "name": "新乡县",
+      "pinyin": "xinxiangxian"
+    },
+    {
+      "name": "西平",
+      "pinyin": "xiping"
+    },
+    {
+      "name": "浠水",
+      "pinyin": "xishui"
+    },
+    {
+      "name": "修武",
+      "pinyin": "xiuwu"
+    },
+    {
+      "name": "西乡",
+      "pinyin": "xixiang"
+    },
+    {
+      "name": "宣威",
+      "pinyin": "xuancheng"
+    },
+    {
+      "name": "薛城",
+      "pinyin": "xuecheng"
+    },
+    {
+      "name": "浚县",
+      "pinyin": "xunxian"
+    },
+    {
+      "name": "徐闻",
+      "pinyin": "xuwen"
+    },
+    {
+      "name": "盱眙",
+      "pinyin": "xuyi"
+    },
+    {
+      "name": "香港",
+      "pinyin": "xianggang"
+    },
+    {
+      "name": "香格里拉",
+      "pinyin": "xianggelila"
+    },
+    {
+      "name": "新北",
+      "pinyin": "xinbei"
+    },
+    {
+      "name": "西沙群岛",
+      "pinyin": "xishaqundao"
+    },
+    {
+      "name": "西塘",
+      "pinyin": "xitang"
+    },
+    {
+      "name": "襄樊市",
+      "pinyin": "xiangfanshi"
+    },
+    {
+      "name": "新竹市",
+      "pinyin": "xinzhushi"
+    },
+    {
+      "name": "新竹县",
+      "pinyin": "xinzhuxian"
+      //        }
+      //      ]
+    },
+    //    {
+    //      "title": "Y",
+    //      "cities": [
+    {
+      "name": "盐城",
+      "pinyin": "yancheng"
+    },
+    {
+      "name": "扬州",
+      "pinyin": "yangzhou"
+    },
+    {
+      "name": "烟台",
+      "pinyin": "yantai"
+    },
+    {
+      "name": "宜昌",
+      "pinyin": "yichang"
+    },
+    {
+      "name": "银川",
+      "pinyin": "yinchuan"
+    },
+    {
+      "name": "岳阳",
+      "pinyin": "yueyang"
+    },
+    {
+      "name": "阳江",
+      "pinyin": "yangjiang"
+    },
+    {
+      "name": "宜宾",
+      "pinyin": "yibin"
+    },
+    {
+      "name": "宜春",
+      "pinyin": "yichun"
+    },
+    {
+      "name": "营口",
+      "pinyin": "yingkou"
+    },
+    {
+      "name": "义乌",
+      "pinyin": "yiwu"
+    },
+    {
+      "name": "宜兴",
+      "pinyin": "yixing"
+    },
+    {
+      "name": "益阳",
+      "pinyin": "yiyang"
+    },
+    {
+      "name": "乐清",
+      "pinyin": "yueqing"
+    },
+    {
+      "name": "玉林",
+      "pinyin": "yulin"
+    },
+    {
+      "name": "榆林",
+      "pinyin": "yulin"
+    },
+    {
+      "name": "运城",
+      "pinyin": "yuncheng"
+    },
+    {
+      "name": "余姚",
+      "pinyin": "yuyao"
+    },
+    {
+      "name": "延安",
+      "pinyin": "yanan"
+    },
+    {
+      "name": "延边",
+      "pinyin": "yanbian"
+    },
+    {
+      "name": "阳泉",
+      "pinyin": "yangquan"
+    },
+    {
+      "name": "兖州",
+      "pinyin": "yanzhou"
+    },
+    {
+      "name": "英德",
+      "pinyin": "yingde"
+    },
+    {
+      "name": "鹰潭",
+      "pinyin": "yingtan"
+    },
+    {
+      "name": "伊宁",
+      "pinyin": "yining"
+    },
+    {
+      "name": "仪征",
+      "pinyin": "yizheng"
+    },
+    {
+      "name": "永州",
+      "pinyin": "yongzhou"
+    },
+    {
+      "name": "永川",
+      "pinyin": "yongchuan"
+    },
+    {
+      "name": "永康",
+      "pinyin": "yongkang"
+    },
+    {
+      "name": "云浮",
+      "pinyin": "yunfu"
+    },
+    {
+      "name": "玉溪",
+      "pinyin": "yuxi"
+    },
+    {
+      "name": "禹州",
+      "pinyin": "yuzhou"
+    },
+    {
+      "name": "雅安",
+      "pinyin": "yaan"
+    },
+    {
+      "name": "阳城",
+      "pinyin": "yangcheng"
+    },
+    {
+      "name": "阳谷",
+      "pinyin": "yanggu"
+    },
+    {
+      "name": "杨凌",
+      "pinyin": "yangling"
+    },
+    {
+      "name": "阳朔",
+      "pinyin": "yangshuo"
+    },
+    {
+      "name": "扬中",
+      "pinyin": "yangzhong"
+    },
+    {
+      "name": "阎良",
+      "pinyin": "yanliang"
+    },
+    {
+      "name": "偃师",
+      "pinyin": "yanshi"
+    },
+    {
+      "name": "叶县",
+      "pinyin": "yexian"
+    },
+    {
+      "name": "宜城",
+      "pinyin": "yicheng"
+    },
+    {
+      "name": "伊川",
+      "pinyin": "yichuan"
+    },
+    {
+      "name": "宜都",
+      "pinyin": "yidu"
+    },
+    {
+      "name": "伊金霍洛旗",
+      "pinyin": "yijinhuoluoqi"
+    },
+    {
+      "name": "沂南",
+      "pinyin": "yinan"
+    },
+    {
+      "name": "应城",
+      "pinyin": "yingcheng"
+    },
+    {
+      "name": "沂水",
+      "pinyin": "yishui"
+    },
+    {
+      "name": "易县",
+      "pinyin": "yixian"
+    },
+    {
+      "name": "宜阳",
+      "pinyin": "yiyang"
+    },
+    {
+      "name": "永济",
+      "pinyin": "yongji"
+    },
+    {
+      "name": "永年",
+      "pinyin": "yongnian"
+    },
+    {
+      "name": "沅江",
+      "pinyin": "yuanjiang"
+    },
+    {
+      "name": "原平",
+      "pinyin": "yuanping"
+    },
+    {
+      "name": "原阳",
+      "pinyin": "yuanyang"
+    },
+    {
+      "name": "禹城",
+      "pinyin": "yucheng"
+    },
+    {
+      "name": "虞城",
+      "pinyin": "yucheng"
+    },
+    {
+      "name": "于都",
+      "pinyin": "yudu"
+    },
+    {
+      "name": "玉环",
+      "pinyin": "yuhuan"
+    },
+    {
+      "name": "郓城",
+      "pinyin": "yuncheng"
+    },
+    {
+      "name": "云阳",
+      "pinyin": "yunyang"
+    },
+    {
+      "name": "玉山",
+      "pinyin": "yushan"
+    },
+    {
+      "name": "伊春",
+      "pinyin": "yichun"
+    },
+    {
+      "name": "伊犁",
+      "pinyin": "yili"
+    },
+    {
+      "name": "宜兰县",
+      "pinyin": "yilanxian"
+    },
+    {
+      "name": "益阳市",
+      "pinyin": "yiyangshi"
+    },
+    {
+      "name": "玉树",
+      "pinyin": "yushu"
+    },
+    {
+      "name": "云林县",
+      "pinyin": "yunlinxian"
+      //        }
+      //      ]
+    },
+    //    {
+    //      "title": "Z",
+    //      "cities": [
+    {
+      "name": "郑州",
+      "pinyin": "zhengzhou"
+    },
+    {
+      "name": "湛江",
+      "pinyin": "zhanjiang"
+    },
+    {
+      "name": "镇江",
+      "pinyin": "zhenjiang"
+    },
+    {
+      "name": "中山",
+      "pinyin": "zhongshan"
+    },
+    {
+      "name": "珠海",
+      "pinyin": "zhuhai"
+    },
+    {
+      "name": "株洲",
+      "pinyin": "zhuzhou"
+    },
+    {
+      "name": "淄博",
+      "pinyin": "zibo"
+    },
+    {
+      "name": "枣庄",
+      "pinyin": "zaozhuang"
+    },
+    {
+      "name": "张家港",
+      "pinyin": "zhangjiagang"
+    },
+    {
+      "name": "张家口",
+      "pinyin": "zhangjiakou"
+    },
+    {
+      "name": "漳州",
+      "pinyin": "zhangzhou"
+    },
+    {
+      "name": "肇庆",
+      "pinyin": "zhaoqing"
+    },
+    {
+      "name": "周口",
+      "pinyin": "zhoukou"
+    },
+    {
+      "name": "舟山",
+      "pinyin": "zhoushan"
+    },
+    {
+      "name": "诸暨",
+      "pinyin": "zhuji"
+    },
+    {
+      "name": "驻马店",
+      "pinyin": "zhumadian"
+    },
+    {
+      "name": "遵义",
+      "pinyin": "zunyi"
+    },
+    {
+      "name": "枣阳",
+      "pinyin": "zaoyang"
+    },
+    {
+      "name": "增城",
+      "pinyin": "zengcheng"
+    },
+    {
+      "name": "张家界",
+      "pinyin": "zhangjiajie"
+    },
+    {
+      "name": "章丘",
+      "pinyin": "zhangqiu"
+    },
+    {
+      "name": "张掖",
+      "pinyin": "zhengye"
+    },
+    {
+      "name": "昭通",
+      "pinyin": "zhaotong"
+    },
+    {
+      "name": "招远",
+      "pinyin": "zhaoyuan"
+    },
+    {
+      "name": "庄河",
+      "pinyin": "zhuanghe"
+    },
+    {
+      "name": "诸城",
+      "pinyin": "zhucheng"
+    },
+    {
+      "name": "涿州",
+      "pinyin": "zhuozhou"
+    },
+    {
+      "name": "自贡",
+      "pinyin": "zigong"
+    },
+    {
+      "name": "资阳",
+      "pinyin": "ziyang"
+    },
+    {
+      "name": "邹城",
+      "pinyin": "zoucheng"
+    },
+    {
+      "name": "彰化",
+      "pinyin": "zhanghua"
+    },
+    {
+      "name": "漳浦",
+      "pinyin": "zhangpu"
+    },
+    {
+      "name": "樟树",
+      "pinyin": "zhangshu"
+    },
+    {
+      "name": "赵县",
+      "pinyin": "zhaoxian"
+    },
+    {
+      "name": "柘城",
+      "pinyin": "zhecheng"
+    },
+    {
+      "name": "正定",
+      "pinyin": "zhengding"
+    },
+    {
+      "name": "枝江",
+      "pinyin": "zhijiang"
+    },
+    {
+      "name": "中牟",
+      "pinyin": "zhongmu"
+    },
+    {
+      "name": "中卫",
+      "pinyin": "zhongwei"
+    },
+    {
+      "name": "钟祥",
+      "pinyin": "zhongxiang"
+    },
+    {
+      "name": "周至",
+      "pinyin": "zhouzhi"
+    },
+    {
+      "name": "准格尔旗",
+      "pinyin": "zhungeerqi"
+    },
+    {
+      "name": "邹平",
+      "pinyin": "zouping"
+    },
+    {
+      "name": "周庄",
+      "pinyin": "zhouzhuang"
+    }
+    //      ]
+    //    }
+  ]
+}

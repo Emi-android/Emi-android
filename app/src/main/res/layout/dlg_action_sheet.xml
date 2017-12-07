@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:id="@+id/dlg_whole"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black_50_percent">
+
+    <LinearLayout
+        android:id="@+id/dlg_frame"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/txt_lvl_5"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/sheet_title"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:background="@color/white_lvl_2"
+            android:gravity="center"
+            android:textColor="@color/txt_lvl_2"
+            android:textSize="@dimen/txt_size_1"
+            android:visibility="gone"/>
+
+        <TextView
+            android:id="@+id/btn_cancel"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_marginTop="5dp"
+            android:background="@color/white"
+            android:gravity="center"
+            android:paddingBottom="20dp"
+            android:text="@string/cancel"
+            android:textColor="@color/txt_lvl_1"
+            android:textSize="@dimen/txt_size_3"/>
+
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="light_black">#333333</color>
+    <color name="translucent">#00000000</color>
+    <color name="black_25_percent">#3F000000</color>
+    <color name="black_50_percent">#7F000000</color>
+    <color name="black_67_percent">#AA000000</color>
+    <color name="global_bg">@color/main_red</color>
+    <color name="main_bg">@color/white</color>
+    <color name="tab_normal">#AAAAAA</color>
+    <color name="tab_select">@color/main_red</color>
+
+    <color name="txt_lvl_1">@color/black</color>
+    <color name="txt_lvl_2">@color/light_black</color>
+    <color name="txt_lvl_3">#7F7F7F</color>
+    <color name="txt_lvl_4">#AAAAAA</color>
+    <color name="txt_lvl_5">#CCCCCC</color>
+    <color name="line_color">#D9D9D9</color>
+
+    <color name="white_lvl_3">#E0E0E0</color>
+    <color name="white_lvl_2">#EFEFEF</color>
+    <color name="white_lvl_1">#F8F6F6</color>
+
+    <color name="little_gray">@color/line_color</color>
+    <color name="light_gray">#666666</color>
+    <color name="dark_gray">#4D4D4D</color>
+
+    <color name="main_blue">#679ceb</color>
+    <color name="light_blue">#67a7db</color>
+    <color name="main_green">#6CBA52</color>
+    <color name="light_green">#8BC34A</color>
+    <color name="dark_green">#6D9F35</color>
+    <color name="bg_gray_color">#EFF0F1</color>
+
+    <color name="moment_bg">#f5f5f5</color>
+    <color name="secondary_bg">#EFF0F1</color>
+
+    <color name="main_red">#EF6752</color>
+    <color name="light_red">#ec6b68</color>
+</resources>

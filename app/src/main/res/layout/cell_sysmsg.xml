@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:background="@color/white_lvl_3"
+              android:orientation="vertical"
+              android:paddingBottom="1dp"
+              android:paddingLeft="15dp"
+              android:paddingRight="10dp"
+              android:paddingTop="25dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/shape_msg_cell"
+        android:orientation="vertical"
+        android:paddingBottom="5dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingTop="10dp">
+
+        <TextView
+            android:id="@+id/text_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="今晚20点整，天上掉馅饼"
+            android:textColor="@color/txt_lvl_2"
+            android:textSize="@dimen/txt_size_3"/>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="5dp"
+            android:background="@color/txt_lvl_5"/>
+
+        <TextView
+            android:id="@+id/text_content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ZF宣称：天上掉下的所有东西都属于公有财产，私自据为已有者，依‘侵吞国有财产罪’论处。提醒大家届时一定要藏在家里，不要出门，以免被误抓"
+            android:textColor="@color/txt_lvl_3"
+            android:textSize="@dimen/txt_size_3"/>
+
+        <TextView
+            android:id="@+id/text_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="1dp"
+            android:layout_marginTop="5dp"
+            android:text="2016-06-27 20:00"
+            android:textColor="@color/txt_lvl_3"
+            android:textSize="@dimen/txt_size_4"/>
+    </LinearLayout>
+</LinearLayout>

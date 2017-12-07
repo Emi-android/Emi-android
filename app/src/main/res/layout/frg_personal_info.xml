@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:scrollbars="none"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:id="@+id/cell_avatar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="48dp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:gravity="center"
+                android:text="@string/portrait"
+                android:textColor="@color/txt_lvl_2"
+                android:textSize="@dimen/txt_size_2"/>
+
+            <ImageView
+                android:id="@+id/img_avatar"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_margin="10dp"
+                android:background="@mipmap/stub_avatar"
+                android:scaleType="centerCrop"/>
+        </RelativeLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:layout_marginLeft="10dp"
+            android:background="@color/line_color"/>
+
+        <LinearLayout
+            android:id="@+id/cell_username"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="20dp"
+                android:layout_gravity="center_vertical"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:text="@string/username"
+                android:textColor="@color/txt_lvl_2"
+                android:textSize="@dimen/txt_size_2"/>
+
+            <EditText
+                android:id="@+id/edit_name"
+                android:layout_width="0dp"
+                android:layout_height="48dp"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="10dp"
+                android:layout_weight="3"
+                android:background="@color/translucent"
+                android:gravity="right|center_vertical"
+                android:hint="@string/username"
+                android:imeOptions="actionDone"
+                android:maxLength="8"
+                android:singleLine="true"
+                android:textColor="@color/white_lvl_3"
+                android:textSize="@dimen/txt_size_3"/>
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:layout_marginLeft="10dp"
+            android:background="@color/line_color"/>
+
+        <LinearLayout
+            android:id="@+id/cell_sex"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingRight="10dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="20dp"
+                android:layout_margin="10dp"
+                android:text="@string/gender"
+                android:textColor="@color/txt_lvl_2"
+                android:textSize="@dimen/txt_size_2"/>
+
+            <TextView
+                android:id="@+id/text_sex"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:drawablePadding="10dp"
+                android:gravity="right"
+                android:hint="@string/gender"
+                android:textColor="@color/white_lvl_3"
+                android:textSize="@dimen/txt_size_3"/>
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:layout_marginLeft="10dp"
+            android:background="@color/line_color"/>
+
+        <LinearLayout
+            android:id="@+id/cell_birthday"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingRight="10dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="20dp"
+                android:layout_margin="10dp"
+                android:text="@string/birth_date"
+                android:textColor="@color/txt_lvl_2"
+                android:textSize="@dimen/txt_size_2"/>
+
+            <TextView
+                android:id="@+id/text_birthday"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:drawablePadding="10dp"
+                android:gravity="right"
+                android:hint="@string/birth_date"
+                android:textColor="@color/white_lvl_3"
+                android:textSize="@dimen/txt_size_3"/>
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:layout_marginLeft="10dp"
+            android:background="@color/line_color"/>
+
+        <LinearLayout
+            android:id="@+id/cell_height"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingRight="10dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="20dp"
+                android:layout_margin="10dp"
+                android:text="@string/height"
+                android:textColor="@color/txt_lvl_2"
+                android:textSize="@dimen/txt_size_2"/>
+
+            <TextView
+                android:id="@+id/text_height"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:drawablePadding="10dp"
+                android:gravity="right"
+                android:hint="@string/height"
+                android:textColor="@color/white_lvl_3"
+                android:textSize="@dimen/txt_size_3"/>
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:layout_marginLeft="10dp"
+            android:background="@color/line_color"/>
+
+    </LinearLayout>
+</ScrollView>

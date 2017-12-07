@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#fff">
+
+    <com.hcb.widget.ClipSquareImageView
+        android:id="@+id/clipSquareIV"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <com.hcb.widget.ClipSquareView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <TextView
+        android:id="@+id/doneBtn"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/main_blue"
+        android:gravity="center"
+        android:text="@string/confirm"
+        android:textColor="#fff"
+        android:textSize="@dimen/txt_size_2"/>
+
+</RelativeLayout>

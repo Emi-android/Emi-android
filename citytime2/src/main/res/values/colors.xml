@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="light_black">#333333</color>
+    <color name="translucent">#00000000</color>
+    <color name="black_25_percent">#fafafa</color>
+    <color name="black_50_percent">#7F000000</color>
+    <color name="black_67_percent">#AA000000</color>
+    <color name="global_bg">#fa6c23</color>
+    <color name="main_bg">@color/white</color>
+    <color name="tab_normal">#AAAAAA</color>
+    <color name="tab_select">#FF4385E9</color>
+    <color name="text_size2">#545454</color>
+    <color name="text_size3">#808080</color>
+    <color name="dingdan_yanse">#fcfbfb</color>
+    <color name="homepage_name_coloe">#d8f2f5</color>
+
+    <color name="beautiful">#fa6c23</color>
+    <color name="healthy">#119126</color>
+    <color name="delicious">#b49c14</color>
+    <color name="happiness">#b40b57</color>
+
+    <color name="yijian">#c9c9c9</color>
+
+    <color name="txt_lvl_1">@color/black</color>
+    <color name="txt_lvl_2">@color/light_black</color>
+    <color name="txt_lvl_6">#4f4f4f</color>
+    <color name="txt_lvl_3">#7F7F7F</color>
+    <color name="txt_lvl_4">#AAAAAA</color>
+    <color name="txt_lvl_5">#CCCCCC</color>
+    <color name="line_color">#bfbfbf</color>
+    <color name="line_banben_color">@color/bg_fastone</color>
+
+    <color name="line_color_dingdan">#eeeeee</color>
+    <color name="line_color_fast">#e1e1e1</color>
+
+    <color name="zf_ziti">#c3c5c6</color>
+    <color name="zf_ziti2">#b7b6b6</color>
+    <color name="zf_ziti3">#aaaaaa</color>
+    <color name="zf_qudeing">#ebebec</color>
+    <color name="bg_fastone">#e6e6e6</color>
+
+
+
+
+
+
+    <color name="white_lvl_4">#F5F5F5</color>
+    <color name="white_lvl_3">#E0E0E0</color>
+    <color name="white_lvl_2">#fafafa</color>
+    <color name="white_lvl_1">#F8F6F6</color>
+
+    <color name="little_gray">@color/line_color</color>
+    <color name="light_gray">#666666</color>
+    <color name="dark_gray">#4D4D4D</color>
+    <color name="alpha_gray">#CC646464</color>
+
+    <color name="main_blue">#FF5E98EF</color>
+    <color name="light_blue">#67a7db</color>
+    <color name="main_green">#6CBA52</color>
+    <color name="light_green">#8BC34A</color>
+    <color name="dark_green">#6D9F35</color>
+    <color name="bg_gray_color">#EFF0F1</color>
+    <color name="take_res">#f2ba02</color>
+    <color name="take_diyong">#fa6c23</color>
+    <color name="shallow_diyong">#90fa8023</color>
+
+    <color name="moment_bg">#f5f5f5</color>
+    <color name="secondary_bg">#EFF0F1</color>
+
+    <color name="main_red">#EF6752</color>
+    <color name="light_red">#ec6b68</color>
+
+    <color name="background_green">@color/dingdan_bg</color>
+    <color name="dingdan_bg">#f5f5f5</color>
+    <color name="dingdan_down_bg">#f0f0f0</color>
+    <color name="seacher_edit">#edf2ef</color>
+
+
+    <color name="no_vip">#a3a3a3</color>
+
+    <color name="color_teacher">#FDEFEF</color>
+    <color name="color_teacher_h">#ffafaf</color>
+    <color name="color_teacher_line">#D5454F</color>
+    <color name="color_host">#EFF7FE</color>
+    <color name="color_host_h">#8dcaff</color>
+    <color name="color_host_line">#379AEE</color>
+    <color name="color_audience">#F6F6F6</color>
+    <color name="color_audience_h">#D6D6D6</color>
+    <color name="color_audience_line">#D8D8D8</color>
+
+    <color name="white_btn_select">#D9D9D9</color>
+    <color name="trans_black">#6A6A6A</color>
+
+    <color name="voice_btn_n">#e2e2e2</color>
+    <color name="voice_btn_h">#D6D6D6</color>
+    <color name="voice_btn_stroke">#c1c1c1</color>
+</resources>
