@@ -1,0 +1,30 @@
+<configuration>
+
+    <!-- Create a file appender for a log in the application's data directory
+    <property name="LOG_DIR" value="/mnt/sdcard/huaban/com.huaban.bizhi/log" />
+    <appender name="DebugLog" class="ch.qos.logback.core.FileAppender">
+      <file>${LOG_DIR}/trace.log</file>
+      <encoder>
+        <pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg%n</pattern>
+      </encoder>
+    </appender>
+    -->
+
+    <appender name="logcat" class="ch.qos.logback.classic.android.LogcatAppender">
+        <encoder>
+            <pattern>%msg</pattern>
+        </encoder>
+    </appender>
+
+    <!--
+    <logger name="LiveWpService" level="DEBUG" additivity="false">
+      <appender-ref ref="logcat"/>
+    </logger>
+     -->
+
+    <!-- Write INFO WARN (and higher-level) messages to logcat -->
+    <root level="TRACE">
+        <appender-ref ref="logcat" />
+        <!-- appender-ref ref="DebugLog" / -->
+    </root>
+</configuration>

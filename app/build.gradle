@@ -1,0 +1,95 @@
+apply plugin: 'com.android.application'
+
+apply plugin: 'android-apt'//butterknife
+
+def releaseTime() {
+    return new Date().format("MMddHHmm", TimeZone.getTimeZone("GMT+8"))
+}
+
+String projName = "ProjName"
+
+android {
+    compileSdkVersion 24
+    buildToolsVersion "24.0.0"
+
+    signingConfigs {
+        release {
+            storeFile file('../baby.jks')
+            storePassword "JCWL1234"
+            keyAlias "joncran.com"
+            keyPassword "JCWL1234"
+        }
+    }
+
+    defaultConfig {
+        applicationId "com.proj.change"
+        minSdkVersion 19
+        targetSdkVersion 24
+        versionCode 1
+        versionName "1.0.001"
+
+        manifestPlaceholders = [
+                UMENG_KEY: "xxx",
+
+//                GETUI_APP_ID    : "xxx",
+//                GETUI_APP_KEY   : "xxx",
+//                GETUI_APP_SECRET: "xxx",
+//                PACKAGE_NAME    : applicationId,
+        ]
+    }
+
+    productFlavors {
+        offical {}
+        productFlavors.all { flavor ->
+            flavor.manifestPlaceholders = [UMENG_CHANNEL_VALUE: name]
+        }
+    }
+
+    buildTypes {
+        debug {
+            minifyEnabled false
+            signingConfig signingConfigs.release
+        }
+        release {
+            minifyEnabled false
+            zipAlignEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.release
+            applicationVariants.all { variant ->
+                variant.outputs.each { output ->
+                    def outputFile = output.outputFile
+                    if (outputFile != null && outputFile.name.endsWith('.apk')
+                            && 'release'.equals(variant.buildType.name)) {
+                        def fileName = "${projName}_Release_" +
+                                "v${defaultConfig.versionCode}_${releaseTime()}" +
+                                "_${variant.productFlavors[0].name}.apk"
+                        output.outputFile = new File(outputFile.parent, fileName)
+                    }
+                }
+            }
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    debugCompile fileTree(include: ['*.jar'], dir: 'logback')
+    compile 'com.android.support:support-v4:23.4.0'
+    compile 'com.alibaba:fastjson:1.2.18'
+    compile 'com.squareup.okhttp3:okhttp:3.4.1'
+    compile 'com.squareup.okhttp3:okhttp-urlconnection:3.4.1'
+    compile 'com.android.volley:volley:1.0.0'
+    compile 'com.jakewharton:disklrucache:2.0.2'
+    compile 'com.jakewharton:butterknife:8.4.0'
+    apt 'com.jakewharton:butterknife-compiler:8.4.0'
+    //增加这一句
+    compile 'com.nostra13.universalimageloader:universal-image-loader:1.9.5'
+    compile 'com.umeng.analytics:analytics:6.0.0'
+    compile 'de.hdodenhof:circleimageview:2.1.0'
+    apt 'com.zhy:mpermission-compiler:1.0.0'
+    compile 'com.zhy:mpermission-api:1.0.0'
+    compile files('libs/alipaySdk-20160812.jar')
+    compile files('libs/open_sdk_r5756.jar')
+    compile files('libs/libammsdk.jar')
+    compile project(':citytime2')
+}
